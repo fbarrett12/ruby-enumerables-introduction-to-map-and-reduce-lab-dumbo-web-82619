@@ -62,6 +62,8 @@ counter = 0
   while counter < source_array.length
     if source_array[counter] ==  true 
       return true
+    else
+      return false 
     end
     counter += 1 
   end
