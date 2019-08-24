@@ -67,5 +67,4 @@ counter = 0
     end
     counter += 1 
   end
-  return true 
 end
